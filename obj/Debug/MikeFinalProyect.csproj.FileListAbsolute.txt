@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\MikeFinalProyect\bin\Debug\MikeFinalProyect.exe.config
+C:\Users\USER\source\repos\MikeFinalProyect\bin\Debug\MikeFinalProyect.exe
+C:\Users\USER\source\repos\MikeFinalProyect\bin\Debug\MikeFinalProyect.pdb
+C:\Users\USER\source\repos\MikeFinalProyect\obj\Debug\MikeFinalProyect.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\MikeFinalProyect\obj\Debug\MikeFinalProyect.Form1.resources
+C:\Users\USER\source\repos\MikeFinalProyect\obj\Debug\MikeFinalProyect.Properties.Resources.resources
+C:\Users\USER\source\repos\MikeFinalProyect\obj\Debug\MikeFinalProyect.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\MikeFinalProyect\obj\Debug\MikeFinalProyect.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\MikeFinalProyect\obj\Debug\MikeFinalProyect.exe
+C:\Users\USER\source\repos\MikeFinalProyect\obj\Debug\MikeFinalProyect.pdb
+C:\Users\USER\source\repos\MikeFinalProyect\obj\Debug\MikeFinalProyect.Formularios.PersonajeForms.resources
